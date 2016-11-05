@@ -1,17 +1,17 @@
 Name
 ----
-abc
+**abc**
 
 Date
 ----
-abc
+**abc**
 
 Github Username
 ---------------
-abc
+**abc**
 
 My Favorite 3 Programming Languages
 ------------------------------------
-1.abc
-2.def
-3.efg
+* 1.abc
+* 2.def
+* 3.efg
